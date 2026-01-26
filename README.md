@@ -30,6 +30,17 @@ ToDo-Web-App/
 
 ---
 
+## ⚙️ How It Works
+1. User enters a task in the input box.
+2. User selects the task Date & Time.
+3. On clicking **Add Task**, the task gets added to the list.
+4. Each task has buttons to:
+   - ✅ Mark as Done
+   - ✏️ Edit Task
+   - 🗑️ Delete Task
+
+---
+
 ## 🚀 How to Run the Project
 1. Download or Clone this repository  
 2. Open the folder in **VS Code**  
@@ -38,9 +49,19 @@ ToDo-Web-App/
    
 ---
 
+## 🔮 Future Enhancements (Optional)
+🚀 These features can be added to improve the project:
+- Save tasks using **LocalStorage**
+- Add filters: **All / Pending / Completed**
+- Task priority (High / Medium / Low)
+- Search tasks option
+- Better UI animations and icons
+
+---
+
 🌐Live Demo
 🔗 Live Link:
-
+https://codedbydivya.github.io/SCT_WD_4/
 
 
 ## 👨‍💻 Author
