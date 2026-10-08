@@ -61,7 +61,7 @@ ToDo-Web-App/
 
 🌐Live Demo
 🔗 Live Link:
-https://codedbydivya.github.io/SCT_WD_4/
+https://divya-jaiswal.github.io/SCT_WD_4/
 
 
 ## 👨‍💻 Author
